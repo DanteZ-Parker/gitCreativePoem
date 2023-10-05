@@ -1,8 +1,5 @@
 poems are like french fries
 we lives, we loves we lies
-<<<<<<< HEAD
-his singing should be a crime
-=======
-these words make me criesi guess ethan cannot rhyme
->>>>>>> refs/remotes/origin/main
+these words make me cries
+i guess ethan cannot rhyme
 ethans singing should be a crime
